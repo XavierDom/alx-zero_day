@@ -1,1 +1,1 @@
-This is the readme for bash
+This is the readme for bash only
